@@ -29,7 +29,10 @@ This project explores the security challenges of Internet of Things (IoT) ecosys
 - Wireshark (traffic analysis)  
 - Snort IDS  
 - IoT device emulators/testbeds  
-- Secure protocols and configurations
+- Secure protocols and configurations  
+
+## Screenshots & Results
+_Add images of your IoT setup, traffic captures, Snort alerts, and mitigation results here._  
 
 ## Academic Context
 This project was developed as part of an academic research initiative at the Petroleum Training Institute (PTI), Nigeria.
