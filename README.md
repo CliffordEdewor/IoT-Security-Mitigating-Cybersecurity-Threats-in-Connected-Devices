@@ -1,4 +1,4 @@
-# IoT Security: Mitigating Cybersecurity Threats in Connected Devices
+# IoT Security Mitigating Cybersecurity Threats in Connected Devices
 
 This project explores the security challenges of Internet of Things (IoT) ecosystems and demonstrates practical strategies to mitigate risks. It focuses on device-level, network-level, and data security controls to strengthen resilience against cyber threats.
 
