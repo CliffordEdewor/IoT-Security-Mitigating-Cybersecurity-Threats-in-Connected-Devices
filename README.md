@@ -39,7 +39,7 @@ This project explores the security challenges of Internet of Things (IoT) ecosys
 
 <p align="center">
   <img src="images/IoT_Slide2_Threats.png" alt="Common IoT Cybersecurity Threats and Vulnerabilities" width="45%" />
-  <img src="images/IoT_Slide3_Solutions.png" alt="Proposed Strategies for Mitigating IoT Cybersecurity Threats" width="45%" />
+  <img src="images/IoT_Slide4_Solutions.png" alt="Proposed Strategies for Mitigating IoT Cybersecurity Threats" width="45%" />
 </p>  
 
 📄 [**Download Full IoT Security Presentation (PDF)**](assets/IoT_Security_Presentation.pdf)
