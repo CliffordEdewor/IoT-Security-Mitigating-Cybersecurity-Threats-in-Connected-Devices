@@ -45,6 +45,20 @@ src="images/IoT_Slide3_Strategies.png" alt="Proposed Strategies for Mitigating I
 src="images/IoT_Slide4_Solutions.png" alt="Proposed Strategies for Mitigating IoT Cybersecurity Threats" width="45%" />
 </p>  
 
+## 📸 Project Presentation
+
+### IoT Security Project Cover Slide
+![IoT Security Cover](images/iot-security-project-cover-slide.png)
+
+### Common IoT Security Threats
+![IoT Threats](images/iot-common-security-threats.png)
+
+### IoT Threat Mitigation Strategies
+![IoT Mitigation Strategies](images/iot-threat-mitigation-strategies.png)
+
+### IoT Security Solutions & Future Directions
+![IoT Security Solutions](images/iot-security-solutions-and-future-directions.png)
+
 📄 [**Download Full IoT Security Presentation (PDF)**](assets/IoT_Security_Presentation.pdf)
 
 
