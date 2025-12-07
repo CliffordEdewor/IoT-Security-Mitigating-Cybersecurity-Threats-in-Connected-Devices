@@ -39,7 +39,7 @@ This project explores the security challenges of Internet of Things (IoT) ecosys
 ### Common IoT Security Threats
 ![IoT Threats](images/iot-common-security-threats.PNG)
 
-### IoT Case Studies Mirai & Meris
+### IoT Case Studies: Mirai & Meris Botnet
 ![IoT Case Studies](images/iot-case-studies-mirai-meris.png)
 
 ### IoT Threat Mitigation Strategies
