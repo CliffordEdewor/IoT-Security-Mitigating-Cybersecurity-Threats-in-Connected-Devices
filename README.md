@@ -54,4 +54,4 @@ This project explores the security challenges of Internet of Things (IoT) ecosys
 This project was developed as part of an academic research initiative under the **Computer Science Department** at the **Petroleum Training Institute (PTI), Nigeria**. It demonstrates the application of layered security strategies to protect IoT ecosystems across device, network, and data layers.
 
 ## 📄 License
-For educational demonstration and academic research.
+This project is intended for educational demonstration, academic research, and portfolio presentation purposes.
