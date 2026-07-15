@@ -17,7 +17,7 @@ The primary objectives were to:
 - Map practical mitigation techniques to representative attack scenarios.
 - Demonstrate how layered security improves the overall resilience of IoT environments.
 
-## 🎯 Threat Model
+## 🛡️ Threat Model
 
 The project evaluates representative threats commonly observed within Internet of Things environments and maps appropriate security controls to each scenario.
 
@@ -29,7 +29,7 @@ The project evaluates representative threats commonly observed within Internet o
 | Data Interception | Protect sensitive information | TLS/SSL encryption |
 | Device Compromise | Improve device resilience | Secure configuration and hardening |
 
-## 🛡️ Layered Security Architecture
+## 🔐 Layered Security Architecture
 ***Device Layer***
 - Strong authentication mechanisms
 - Secure firmware management
