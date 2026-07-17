@@ -90,8 +90,8 @@ Each layer contributes to reducing the likelihood and impact of successful cyber
 ### IoT Security Project Cover Slide
 ![IoT Security Cover](images/iot-security-architecture-overview.PNG)
 
-### Common IoT Security Threats
-![IoT Threats](images/iot-common-security-threats.PNG)
+### Key IoT Security Risks
+![IoT Threats](images/key-iot-security-risks.PNG)
 
 ## 🌍 Representative Attack Scenarios: Mirai & Meris Botnet
 ![IoT Case Studies](images/iot-case-studies-mirai-meris.png)
