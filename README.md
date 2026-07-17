@@ -87,14 +87,14 @@ Each layer contributes to reducing the likelihood and impact of successful cyber
 
 ## 📸 Project Presentation 
 
-### IoT Security Project Cover Slide
+### IoT Security Architecture Overview
 ![IoT Security Cover](images/iot-security-architecture-overview.PNG)
 
 ### Key IoT Security Risks
 ![IoT Threats](images/key-iot-security-risks.PNG)
 
 ## 🌍 Representative Attack Scenarios: Mirai & Meris Botnet
-![IoT Case Studies](images/iot-case-studies-mirai-meris.png)
+![IoT Case Studies](images/iot-case-studies-mirai-meris.PNG)
 
 ## 📊 Security Control Mapping
 
@@ -109,8 +109,8 @@ Each layer contributes to reducing the likelihood and impact of successful cyber
 ### IoT Threat Mitigation Strategies
 ![IoT Mitigation Strategies](images/iot-threat-mitigation-strategies.PNG)
 
-## 🚀 Future Security Considerations
-![IoT Security Solutions](images/iot-security-solutions-and-future-directions.PNG)
+## 🚀 IoT Security Design Recommendations
+![IoT Security Solutions](images/security-design-recommendations.PNG)
 
 📄 [**Download Full IoT Security Presentation (PDF)**](assets/IoT_Security_Presentation.pdf)
 
