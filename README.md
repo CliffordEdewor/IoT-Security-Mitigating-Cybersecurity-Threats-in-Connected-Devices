@@ -88,7 +88,7 @@ Each layer contributes to reducing the likelihood and impact of successful cyber
 ## 📸 Project Presentation 
 
 ### IoT Security Project Cover Slide
-![IoT Security Cover](images/iot-security-project-cover-slide.png)
+![IoT Security Cover](images/iot-security-architecture-overview.PNG)
 
 ### Common IoT Security Threats
 ![IoT Threats](images/iot-common-security-threats.PNG)
